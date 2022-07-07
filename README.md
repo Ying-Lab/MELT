@@ -101,6 +101,13 @@ $conda activate MELT-tensorflow-env
 ```
 Now you've successfully installed the environment 
 
+## The trained models of MELT
+- We provided three trained models for each of the three experiments:
+	- Experiment1: MELT/demo_experiment1/resource/trained_model.h5
+	- Experiment2: MELT/demo_experiment2/trained_model.pth
+	- Experiment3: MELT/demo_experiment3/trained_model.pth
+
+
 ## The demo of MELT
 
 Three small datasets are used for demonstration purposes. 
